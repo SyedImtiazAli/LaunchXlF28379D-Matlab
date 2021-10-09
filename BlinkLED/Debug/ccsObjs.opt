@@ -1,0 +1,1 @@
+"./main.obj" "./device/F2837xD_CodeStartBranch.obj" "./device/device.obj" "../2837x_FLASH_lnk_cpu1.cmd" "C:/ti/C2000Ware_3_04_00_00_Software/driverlib/f2837xd/driverlib/ccs/Debug/driverlib.lib" -llibc.a 
